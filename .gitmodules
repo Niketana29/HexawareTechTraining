@@ -1,0 +1,6 @@
+[submodule "TicketBookingSystem"]
+	path = TicketBookingSystem
+	url = https://github.com/Niketana29/TicketBookingSystem.git
+[submodule "TransportManagementSystem"]
+	path = TransportManagementSystem
+	url = https://github.com/Niketana29/TransportManagementSystem.git
