@@ -4,3 +4,6 @@
 [submodule "TransportManagementSystem"]
 	path = TransportManagementSystem
 	url = https://github.com/Niketana29/TransportManagementSystem.git
+[submodule "CarRentalSystem"]
+	path = CarRentalSystem
+	url = https://github.com/Niketana29/CarRentalSystem.git
