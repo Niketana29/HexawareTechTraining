@@ -1,0 +1,12 @@
+[submodule "path/to/InsuranceManagementSystem"]
+	path = path/to/InsuranceManagementSystem
+	url = https://github.com/Niketana29/InsuranceManagementSystem.git
+[submodule "path/to/TransportManagementSystem"]
+	path = path/to/TransportManagementSystem
+	url = https://github.com/Niketana29/TransportManagementSystem.git
+[submodule "path/to/TicketBookingSystem"]
+	path = path/to/TicketBookingSystem
+	url = https://github.com/Niketana29/TicketBookingSystem.git
+[submodule "path/to/CarRentalSystem"]
+	path = path/to/CarRentalSystem
+	url = https://github.com/Niketana29/CarRentalSystem.git
