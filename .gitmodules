@@ -10,3 +10,15 @@
 [submodule "path/to/CarRentalSystem"]
 	path = path/to/CarRentalSystem
 	url = https://github.com/Niketana29/CarRentalSystem.git
+[submodule "CarRentalSystem"]
+	path = CarRentalSystem
+	url = https://github.com/Niketana29/CarRentalSystem
+[submodule "InsuranceManagementSystem"]
+	path = InsuranceManagementSystem
+	url = https://github.com/Niketana29/InsuranceManagementSystem
+[submodule "TicketBookingSystem"]
+	path = TicketBookingSystem
+	url = https://github.com/Niketana29/TicketBookingSystem
+[submodule "TransportManagementSystem"]
+	path = TransportManagementSystem
+	url = https://github.com/Niketana29/TransportManagementSystem
